@@ -1,0 +1,13 @@
+PerlChat Readme
+
+The operation of the script is simple:
+
+1a) Create a new server to listen for connections. 
+
+1b) Connect to an existing server.
+
+2) Type a message and press enter to send, your messages will be in white, your chat partners in green
+
+You may also elect to save logs a the main menu, these will be saved in a text file.
+
+To exit, simply close the script.
